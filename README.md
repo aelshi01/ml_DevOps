@@ -9,4 +9,7 @@ git checkout
 git status
 git commit
 
+git checkout -b ''
+git branch -d ''
+
 
